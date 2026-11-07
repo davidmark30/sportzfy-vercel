@@ -1,0 +1,23 @@
+# Sportzfy Guide
+
+> A practical guide explaining whether Sportzfy is available on Google TV, how to install its Android APK on compatible devices, how to use TV Mode with a remote, and how to troubleshoot common installation and playback problems.
+
+Sportzfy is distributed as an APK, not through the Google Play Store. It can be sideloaded on compatible Google TV and Android TV devices. Samsung Tizen and LG webOS televisions cannot install Android APKs directly and need an external Android TV device connected by HDMI.
+
+## Main Page
+
+- [Is Sportzfy Available on Google TV, and How to Use It?](https://sportongoogletv.vercel.app/): Full guide covering availability, requirements, installation, usage, features, troubleshooting, updates, and FAQs.
+
+## Key Sections
+
+- [Availability](https://sportongoogletv.vercel.app/#availability): Google Play status and supported device types.
+- [Requirements](https://sportongoogletv.vercel.app/#requirements): What is needed before installing.
+- [Install](https://sportongoogletv.vercel.app/#install): Six-step APK installation process.
+- [Usage](https://sportongoogletv.vercel.app/#usage): Browsing categories, selecting channels, quality, and remote navigation.
+- [Features](https://sportongoogletv.vercel.app/#features): TV Mode, multiple streams, Floating Player, Playlists, Multi View.
+- [Troubleshooting](https://sportongoogletv.vercel.app/#troubleshooting): Install errors, buffering, remote issues, crashes.
+- [FAQ](https://sportongoogletv.vercel.app/#faq): Short answers to common questions.
+
+## Optional
+
+- [Sitemap](https://sportongoogletv.vercel.app/sitemap.xml)
